@@ -26,11 +26,11 @@ body {
 	display: flex;
 	justify-content: center;
 	align-items: flex-start;
-	height: 100vh;
 	color: #263238;
 	flex-direction: column;
 	margin: auto;
 	padding: 25px;
+	margin-top: 16vh;
 }
 
 .body {
