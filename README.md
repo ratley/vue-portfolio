@@ -2,7 +2,7 @@
 My website rebuilt with Vue 😎
 
 ## Original
-[http://inniss.co](http://inniss.co)  
+[inniss.co](http://inniss.co)  
 ## Vue
 [vue.inniss.co](http://vue.inniss.co)  
   
