@@ -2,8 +2,8 @@
 My website rebuilt with Vue 😎
 
 ## Original
-[http://inniss.co](http://inniss.co)  
+[inniss.co](http://inniss.co)  
 ## Vue
-[http://ratley.github.io/vue-portfolio](http://ratley.github.io/vue-portfolio)  
+[vue.inniss.co](http://vue.inniss.co)  
   
 I'll replace it eventually but just putting this here until then.
